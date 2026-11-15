@@ -1,3 +1,29 @@
+# AppAgent
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于 LLM 的多模态智能手机操作 Agent 框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # [CHI 2025] AppAgent 
 
 <div align="center">
